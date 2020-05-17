@@ -1,0 +1,16 @@
+{
+	"dockerComposeFile": [ "docker-compose.yml" ],
+	"service": "web",
+	"workspaceFolder": "/var/www/html",
+	"extensions": [
+		"felixfbecker.php-debug",
+		"felixfbecker.php-intellisense",
+		"marcostazi.vs-code-drupal",
+		"dssiqueira.drupal-8-snippets",
+		"shd101wyy.markdown-preview-enhanced",
+		"whatwedo.twig"
+	],
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	}
+}
